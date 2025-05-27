@@ -1,4 +1,3 @@
-Aşağıda, projenizi tanıtan ve GitHub deposu için uygun bir `README.md` dosyası örneği yer almaktadır:
 
 ---
 
@@ -76,4 +75,3 @@ These tools help uncover which financial features most influence the prediction 
 
 ---
 
-İsterseniz README’ye kurulum talimatları, kullanım örnekleri veya görseller de ekleyebilirim. İhtiyacınıza göre özelleştirebiliriz.
