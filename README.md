@@ -64,8 +64,8 @@ These tools help uncover which financial features most influence the prediction 
 
 ## 👥 Team Members
 
-* Mert Koçoğlu (14533043564)
-* Yaşar Düzgün (39599212730)
+* Mert Koçoğlu
+* Yaşar Düzgün
 
 ## 📚 References
 
